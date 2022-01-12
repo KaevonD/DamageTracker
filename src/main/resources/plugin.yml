@@ -1,0 +1,5 @@
+name: DamageTracker
+version: '${project.version}'
+main: me.drysu.damagetracker.DamageTracker
+api-version: 1.18
+authors: [ Drysu ]
